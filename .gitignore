@@ -2,3 +2,6 @@
 */*.db
 */*.parquet
 */*.xlsx
+**/.jupyter
+**/.ipynb_checkpoints
+**/.virtual_documents
